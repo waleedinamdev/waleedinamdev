@@ -11,7 +11,7 @@ I'm a software development student based in Pakistan, currently learning the fun
 - 🎓 Studying Information Technology
 - 🌱 Currently learning **HTML/CSS** and **JavaScript**
 - 🤝 Open to collaborating on beginner-friendly projects
-- ⚾ Fun fact: my avatar is a flaming baseball — make of that what you will
+
 
 ---
 
