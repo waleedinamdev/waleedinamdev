@@ -97,15 +97,12 @@ Vibe      : Clean code, clean design
 
 <br/>
 
-> 🔥 &nbsp; My avatar is literally a flaming baseball. No explanation needed.
->
+
 > 🌙 &nbsp; I code best late at night when the world goes quiet.
 >
 > 🎨 &nbsp; I care way too much about how things *look*, not just how they *work*.
 >
 > 📖 &nbsp; I believe every great UI tells a story.
->
-> ⚾ &nbsp; Baseball fan first, developer second — but only barely.
 
 <br/><br/>
 
